@@ -165,7 +165,7 @@
                                     <ul  style="list-style-type:circle">
                                         <li>Adobe Premier</li>
                                         <li>Adobe After Effect</li>
-                                        <li>Cinema 3D</li>
+                                        <li>Cinema 4D</li>
                                        
                                     </ul>
 
